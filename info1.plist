@@ -17,13 +17,13 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.jingwatchvip.WatchFace</string>
+          <string>com.JoseeiOS.video.ManVideo</string>
           <key>bundle-version</key>
           <string><![CDATA[unknown]]></string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string><![CDATA[静静表盘]]></string>
+          <string><![CDATA[Clipyeu++]]></string>
         </dict>
       </dict>
     </array>
