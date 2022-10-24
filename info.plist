@@ -11,19 +11,19 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string><![CDATA[https://drive.google.com/uc?export=host&id=176hX5ruWHnADJk5llseqjNGoARLeAQbg]]></string>
+            <string><![CDATA[https://dl.dropboxusercontent.com/s/z1b325aul4brbkn/THEANH.ipa]]></string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.jingwatchvip.WatchFace</string>
+          <string>com.THEANH69.STP</string>
           <key>bundle-version</key>
           <string><![CDATA[unknown]]></string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string><![CDATA[JINGWATCH PRO - THEANH]]></string>
+          <string><![CDATA[THEANH]]></string>
         </dict>
       </dict>
     </array>
