@@ -11,13 +11,13 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string><![CDATA[https://dl.dropboxusercontent.com/s/z1b325aul4brbkn/THEANH.ipa]]></string>
+            <string><![CDATA[https://dl.dropboxusercontent.com/s/naptk2r6b7oad7v/com.stepper.stepper-1.11.7-1452674940-855664970.ipa]]></string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.THEANH69.STP</string>
+          <string>com.stepper.stepper</string>
           <key>bundle-version</key>
           <string><![CDATA[unknown]]></string>
           <key>kind</key>
