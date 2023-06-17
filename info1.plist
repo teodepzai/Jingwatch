@@ -11,20 +11,19 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string><![CDATA[http://www.box.com/index.php?rm=box_download_shared_file&shared_name=fee2iajojsfeynwf2ntixmgdpvj65y4t&file_id=f_534871126418&rss=1
-]]></string>
+            <string><![CDATA[https://github.com/theanh69/action-ipadown/releases/download/com.stepper.stepper-1452674940-855664970/com.stepper.stepper-1.11.7-1452674940-855664970.ipa]]></string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.JoseeiOS.video.ManVideo</string>
+          <string>com.stepper.stepper</string>
           <key>bundle-version</key>
           <string><![CDATA[unknown]]></string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string><![CDATA[Clipyeu++]]></string>
+          <string><![CDATA[THEANH]]></string>
         </dict>
       </dict>
     </array>
